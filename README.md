@@ -23,7 +23,7 @@ Clone the repository and install using:
 
 Using pip install:
 
-```pip install intelligent_water_droplet```
+```pip install intelligent-water-droplet```
 
 ### Usage
 
