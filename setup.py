@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="intelligent_water_droplet",
-    version="0.0.1",
+    version="0.0.2",
     author="Manu S Pillai",
     author_email="manupillai308@gmail.com",
     description="A python implementation of the Intelligent Water Droplet, a Swarm based optimization algorithm",
