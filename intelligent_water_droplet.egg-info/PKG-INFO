@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: intelligent-water-droplet
+Version: 0.0.1
+Summary: A python implementation of the Intelligent Water Droplet, a Swarm based optimization algorithm
+Home-page: https://github.com/manupillai308/Intelligent-Water-Droplet
+Author: Manu S Pillai
+Author-email: manupillai308@gmail.com
+License: UNKNOWN
+Description: This is a simple example package. 
+        [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
